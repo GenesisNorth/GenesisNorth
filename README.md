@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GenesisNorth
+- 👋 Hi, I’m Genesis
 - 👀 I’m interested in Web Devepment, Mobile Application Development and Blockchain Technology.
-- 💞️ I’m looking to collaborate on Mobile Applications development and Blockchain
-- 📫 How to reach me habilagenesis@gmail.com
+- 💞️ I’m looking to collaborate on Mobile Applications development and Blockchain Projects
+- 📫 How to reach me habilagenesis@gmail.com 
 
 <!---
 GenesisNorth/GenesisNorth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
