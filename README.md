@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Genesis and i've been coding for about 3 years now
+- 👋 Hi, I’m Genesis 
 - 👀 I'm interested in Backend Development, Mobile Application Development and Blockchain Development.
 - 💞️ I like to code these languages: Flutter & Dart, Node.js, php & laravel and Solidity.
 - 💞️ Currently learning Solidity for Blockcahin Development
